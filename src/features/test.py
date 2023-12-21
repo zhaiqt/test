@@ -10,4 +10,5 @@ def create_list():
 
 
 item_list = create_list()
-    print(item)
+for item in item_list:
+    print(str(item))
