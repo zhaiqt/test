@@ -1,3 +1,5 @@
+from sklearn.ensemble import RandomForestRegressor
+
 def create_list():
     item_list = [
         "rice",
